@@ -1,0 +1,73 @@
+#footer{
+	background: rgba(231, 236, 255, 1);
+}
+
+.about-company-wrap{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding-top: 67px;
+	padding-bottom: 46px;
+}
+
+.company-text {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 24px;
+    color: rgba(147, 158, 164, 1);
+    margin: 0;
+}
+
+.l-text {
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 38px;
+    color: rgba(55, 68, 126, 1);
+    margin: 0;
+}
+
+
+.footer-purchase-btn {
+    width: 110px;
+    text-align: center;
+    padding: 4px;
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+    color: rgba(255, 255, 255, 1);
+    border-radius: 3px;
+    background-color: rgba(17, 27, 71, 1);
+    display: inline-block;
+}
+
+.footer-nav-link-social-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid rgba(205, 209, 212, 1);
+    padding-top: 20px;
+    padding-bottom: 32px;
+}
+
+.footer-nav-link-inner-wrapper .navbar-nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-nav-link-inner-wrapper .navbar-nav .nav-link {
+    font-weight: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgba(146, 158, 204, 1);
+}
+
+.footer-socail-link-wrap {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.footer-socail-link-wrap {
+    justify-content: center;
+    margin-top: 15px;
+}
